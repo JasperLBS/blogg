@@ -1,0 +1,23 @@
+<h2>Lektionsrapport</h2><p>Vad skulle du ha gjort idag?
+<br>
+göra klart det sista 
+<br>
+Fick du det gjort idag? Var det något du inte hann med eller något extra du gjorde?
+<br>
+jag blev klar med allt
+<br>
+Var du tvungen att ändra något i planeringen för att du har lärt dig eller upptäckt något nytt?
+<br>
+nej 
+<br>
+Har du lärt dig något nytt idag eller fått någon ny insikt? (Försök att komma på tre saker.)
+<br>
+hur skuffed min kod är
+<br>
+Känner du dig nöjd med lektionen? Var det något som skulle kunnat gå bättre?
+<br>
+ja, jag gjorde klart allt
+<br>
+Vad ska du göra nästa vecka/lektion?
+<br>
+idk</p><p class="date">2022-04-06 - 10:39:32</p>

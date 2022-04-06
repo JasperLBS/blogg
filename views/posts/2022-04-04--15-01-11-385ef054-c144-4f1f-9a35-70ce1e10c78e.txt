@@ -1,0 +1,22 @@
+<h2>Lektionsrapport</h2><p>Vad skulle du ha gjort idag?
+<br>
+css
+<br>
+Fick du det gjort idag? Var det något du inte hann med eller något extra du gjorde?
+<br>
+jag satte upp lite css och städade upp koden lite
+<br>
+Var du tvungen att ändra något i planeringen för att du har lärt dig eller upptäckt något nytt?
+<br>
+nej
+<br>
+Har du lärt dig något nytt idag eller fått någon ny insikt? (Försök att komma på tre saker.)
+<br>
+nah
+<br>
+Känner du dig nöjd med lektionen? Var det något som skulle kunnat gå bättre?
+<br>
+ja
+<br>
+Vad ska du göra nästa vecka/lektion?
+fortsätta med css</p><p class="date">2022-04-04 - 15:01:11</p>

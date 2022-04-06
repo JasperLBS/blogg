@@ -1,0 +1,81 @@
+ *{
+    margin: 0;
+ }
+
+body {
+    background-color: #f8f8f8;
+}
+
+.grid-container {
+    display: grid;
+    place-items: start;
+    grid-template-rows: 0;
+    column-gap: 3vh;
+    margin: 20px 15px;
+}
+
+.nav {
+    background-color: #fff; 
+    color: #4f4f4f;
+    font-size: 25pt;
+    border-radius: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width:max-content;
+    padding: 0 50px;
+    height: 94vh;
+    position: sticky;
+    top: 20px;  
+    text-align: center;
+}
+
+.nav > p {
+    margin: 5px;
+    font-size: 20pt;    
+}
+
+
+.nav > h1 {
+    font-size: 25pt;
+    margin-top: 10px;
+}
+
+.nav > a {
+    font-size: 20pt;
+    margin-top: 10px;
+    text-decoration: none transparent;
+    text-align: center;
+    position: block;
+    left: 0;
+}
+
+.poast {
+    background-color: #fff; 
+    color: #4f4f4f;
+    font-size: 20pt;
+    border-radius: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 0 20px 300px;
+    position: relative;
+    padding: 190px 595px;
+    text-align: center;
+}
+
+.poast > p {
+    margin: -125px 10px 0 10px;
+    font-size: 13pt;
+    text-align: left;
+    position: absolute;
+    left: 0;
+}
+
+.poast > h2 {
+    position: absolute;
+    top: 5px;
+    text-align: center;
+    left: 10px;
+
+}
+
+p.date {
+margin-top: 155px;
+}

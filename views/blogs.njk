@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog - postpage</title>
+    <link rel="stylesheet" href="/content/style-blogs.css"> 
+</head>
+<body>
+
+
+<div class="grid-container">
+  <div class="nav">
+    <h1>Jawaxript</h1>
+    <a href="/blogs">BLOGS <br></a>
+    <a href="/about">ABOUT <br></a>
+    <a href="/">BACK <br></a>
+
+  </div>
+
+
+
+  {% for post in posts %}
+    <div class="poast">
+      <p>
+        {% include "./posts/" + post %}
+      </p>
+    </div>
+  {% endfor %}
+</main>
+
+
+
+    <form action="/post" method="post">
+        <textarea name="post-text" cols="70" rows="15"></textarea>
+        <input type="text" name="title">
+        <input type="submit" value="SEND POST"> 
+    </form>
+</body>
+</html>
